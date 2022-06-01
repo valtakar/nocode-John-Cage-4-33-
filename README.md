@@ -4,7 +4,7 @@ No code is the best way to write secure and reliable applications. Write nothing
 
 ## Getting Started
 
-Start by not writing any code.
+Start by not writing any code. Especially, do not write any code related to audio. The audio is designed to be a variation of John Cage's [4'33"](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3) with a more relaxed timing.
 
 ```
 
